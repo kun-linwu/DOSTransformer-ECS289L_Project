@@ -1,5 +1,6 @@
 # Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer
 The offical source code for Density of States Prediction of Crystalline Materials via Prompt-guided Multi-Modal Transformer, accepted at 2023 Neurips main conference.
+
 This project introduces DOSTransformer, a novel deep learning architecture designed to predict the Density of States (DOS) for crystalline materials by integrating crystal structures and energy levels as heterogeneous information. Accepted at the 2023 NeurIPS main conference, the model uses a multimodal transformer to capture complex relationships between atoms and energy states rather than focusing solely on material representations. By utilizing system-specific prompts, the framework effectively guides the model to learn structural interactions for both Phonon and Electron DOS across various real-world scenarios.
  
 ## Technical Skills Used
