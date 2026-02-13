@@ -14,7 +14,7 @@ from embedder_phDOS.graphnetwork_phonon import Graphnetwork_phonon, Graphnetwork
 from embedder_phDOS.mlp_phonon import mlp_phonon, mlp2_phonon
 from embedder_phDOS.e3nn_phonon import e3nn_phonon, get_neighbors
 
-from utils import (
+from scripts.utils import (
     test_phonon1,
     test_phonon2,
     build_data,
